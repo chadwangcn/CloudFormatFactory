@@ -11,5 +11,5 @@ Top 10 Feature Date: 2014.03.14
 8. http or other www address auto download support
 9. phy or vm machine usage detect support
 10. convert history support
-
+ 
 Power supported by FFMPEG Mencoder  X264 and GOLang from google
